@@ -213,3 +213,5 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [LintCode](https://www.lintcode.com/)
 - :link: [CodeCombat](https://codecombat.com/)
 
+### Mental Health and Personal Fitness
+- :muscle: [Simple Daily Stretching Routine](https://phrakture.github.io/starting-stretching.html)
